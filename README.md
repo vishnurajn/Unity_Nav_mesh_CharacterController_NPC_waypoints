@@ -8,6 +8,9 @@ Abobe Mixamo [Character and NPC 3d model + Animation] https://www.mixamo.com/
 Unity Asset store https://assetstore.unity.com/packages/3d/simple-low-poly-village-buildings-99370
 
 GIF
+1
 https://gifyu.com/image/kfXa
+2
 https://gifyu.com/image/kfXU
+3
 https://gifyu.com/image/kfXZ
