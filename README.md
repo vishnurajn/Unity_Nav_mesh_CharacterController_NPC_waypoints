@@ -1,7 +1,7 @@
 # Unity_Nav_mesh_CharacterController_NPC_waypoints
 
 
-![](NAV mesh caharcter controller steps.gif)
+
 
 Player Controller and NPC  automatic way-point switching  with Unity Nav Mesh system. 
 
